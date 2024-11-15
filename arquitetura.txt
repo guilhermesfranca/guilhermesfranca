@@ -1,0 +1,9 @@
+Stack:
+-index
+-(tabs)
+    -Home 
+    -Stack Categories (list of categories , when clicked keeps on the tabs)
+        - List of products
+        - List of products of a specific category
+    -about me
+-Produto único
