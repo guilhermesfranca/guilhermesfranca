@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @guilhermesfranca
-- 👀 I’m interested in Software development and cibersecurity
-- 🌱 I’m currently learning Cibersecurity in a government project based on a Softex directory
-- 💞️ I’m looking to collaborate on 
-- 📫 You can reach me on guilhermesfranca@outlook.com
-- ⚡ Fun fact: I'm going to Portugal next year to study 
+- 👋 Hi, I’m @guilhermesfranca  
+- 👀 I’m interested in Software and Mobile Development.  
+- 🌱 I’m currently learning Mobile development in B7Web   
+- 💬 I speak Portuguese and English fluently, I am learning French at a good level, and I have a solid understanding of Spanish  
+- 💞️ I’m looking to collaborate on projects related to Software & mobile Development   
+- 📫 You can reach me at guilhermesfranca@outlook.com  
+- ⚡ Fun fact: I'm moving to Portugal next year to study!
 
 <!---
 guilhermesfranca/guilhermesfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
