@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @guilhermesfranca  
+- 👋 Hi, I’m Guilherme França
 - 👀 I’m interested in Software and Mobile Development.  
-- 🌱 I’m currently learning Mobile development in B7Web   
-- 💬 I speak Portuguese and English fluently, I am learning French at a good level, and I have a solid understanding of Spanish  
-- 💞️ I’m looking to collaborate on projects related to Software & mobile Development   
+- 🌱 I’m currently learning Full Stack development at B7Web   
+- 💬 I speak Portuguese and English fluently, I am have a intermediate French, and I have a solid understanding of Spanish  
 - 📫 You can reach me at guilhermesfranca@outlook.com  
 - ⚡ Fun fact: I'm moving to Portugal next year to study!
 
