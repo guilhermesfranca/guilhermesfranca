@@ -31,3 +31,6 @@ You can click the Preview link to take a look at your changes.
  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesfranca&layout=compact&theme=dark)](https://github.com/guilhermesfranca)
+## 📊 GitHub Stats
+![Guilherme França's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesfranca&show_icons=true&theme=dark)
