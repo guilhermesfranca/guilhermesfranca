@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack development at DevMedia   
 - 💬 I speak Portuguese and English fluently, I am have a intermediate French, and I have a solid understanding of Spanish  
 - 📫 You can reach me at guilhermesfranca@outlook.com  
-- ⚡ Fun fact: I'm moving to Portugal next year to study!
+- ⚡ Fun fact: I'm moving to Portugal this year to study!
 
 <!---
 guilhermesfranca/guilhermesfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
