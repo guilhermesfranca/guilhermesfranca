@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Guilherme França
 - 👀 I’m interested in Software and Mobile Development.  
-- 🌱 I’m currently learning Full Stack development at DevMedia   
+- 🌱 I’m currently learning Full Stack development at Uniamérica   
 - 💬 I speak Portuguese and English fluently, I am have a intermediate French, and I have a solid understanding of Spanish  
 - 📫 You can reach me at guilhermesfranca@outlook.com  
-- ⚡ Fun fact: I'm moving to Portugal this year to study!
+- ⚡ Fun fact: I'm living in Portugal this year!
 
 <!---
 guilhermesfranca/guilhermesfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
