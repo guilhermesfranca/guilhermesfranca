@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesfranca&layout=compact&theme=dark)](https://github.com/guilhermesfranca)
