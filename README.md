@@ -32,5 +32,4 @@ You can click the Preview link to take a look at your changes.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesfranca&layout=compact&theme=dark)](https://github.com/guilhermesfranca)
+
