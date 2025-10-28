@@ -4,7 +4,7 @@
 - ⚡ I'm enrolled in a bootcamp in Full Stack development at Bytes4Future    
 - 💬 I speak Portuguese and English fluently, I am have a intermediate French, and I have a solid understanding of Spanish  
 - 📫 You can reach me at guilhermesfranca@outlook.com  
-- ⚡ Fun fact: I'm living in Portugal!
+- 📌 I'm living in Portugal!
 
 <!---
 guilhermesfranca/guilhermesfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
