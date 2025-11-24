@@ -1,35 +1,86 @@
-- 👋 Hi, I’m Guilherme França
-- 👀 I’m interested in Software and Mobile Development.  
-- 🌱 I’m currently learning Full Stack development at Uniamérica
-- ⚡ I'm enrolled in a bootcamp in Full Stack development at Bytes4Future    
-- 💬 I speak Portuguese and English fluently, I am have a intermediate French, and I have a solid understanding of Spanish  
-- 📫 You can reach me at guilhermesfranca@outlook.com  
-- 📌 I'm living in Portugal!
+# Hi there, I'm Guilherme França 👋
 
-<!---
-guilhermesfranca/guilhermesfranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hi, I’m @guilhermesfranca 👋
+<div align="center">
+  
+### Full Stack Developer | Mobile Development Enthusiast | Based in Portugal 🇵🇹
 
-### Other social networks where you can find me:
- <a href = "mailto:guilhermesfranca@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/guilhermes.franca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilhermesfranca" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Guilherme França">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesfranca)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesfranca@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermes.franca)
 
-### Technologies I am familiar with:
- [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
- [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
- [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
- [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
- [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
- [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
- [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
- [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+</div>
 
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** currently pursuing my degree at **Uniamérica** and enhancing my skills through the **Bytes4Future** bootcamp. With a strong focus on creating impactful web and mobile applications, I'm constantly learning and adapting to new technologies.
+
+- 🔭 **Current Focus:** Building scalable full-stack applications with modern frameworks
+- 🌱 **Learning:** Advanced React patterns, Cloud Architecture, and Mobile Development
+- 💡 **Interests:** Software Development, Mobile Apps, UI/UX Design, and System Architecture
+- 🌍 **Location:** Lisbon, Portugal
+- 💬 **Languages:** Portuguese (Native), English (Fluent), French (Intermediate), Spanish (Solid Understanding)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=323330)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesfranca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesfranca&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔨 Building portfolio projects with **React** and **Next.js**
+- 📱 Developing cross-platform mobile applications with **React Native**
+- 🌐 Contributing to open-source projects
+- 📚 Expanding knowledge in **Cloud Technologies** and **DevOps**
+- 🤝 Collaborating with other developers on innovative projects
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+- 📧 **Email:** [guilhermesfranca@outlook.com](mailto:guilhermesfranca@outlook.com)
+- 💼 **LinkedIn:** [Guilherme França](https://www.linkedin.com/in/guilhermesfranca)
+- 📸 **Instagram:** [@guilhermes.franca](https://instagram.com/guilhermes.franca)
+
+---
+
+<div align="center">
+  
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermesfranca&color=blueviolet&style=for-the-badge)
+
+</div>
