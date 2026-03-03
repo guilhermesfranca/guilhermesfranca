@@ -70,6 +70,6 @@ I'm always open to learning opportunities, collaborations, and meaningful projec
   
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-![Profile Views](https://komarev.com/ghpvc/?username=guilhermesfranca&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermesfranca&color=red&style=for-the-badge)
 
 </div>
