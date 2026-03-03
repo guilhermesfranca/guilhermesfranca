@@ -2,11 +2,11 @@
 
 <div align="center">
   
-### Full Stack Developer | Mobile Development Enthusiast | Based in Portugal 🇵🇹
+### Software Engineering Student @ 42 Porto | Full Stack Developer | Based in Portugal 🇵🇹
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermesfranca)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesfranca@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermes.franca)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guilhermesfranca)
 
 </div>
 
@@ -14,57 +14,55 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** currently pursuing my degree at **Uniamérica** and enhancing my skills through the **Bytes4Future** bootcamp. With a strong focus on creating impactful web and mobile applications, I'm constantly learning and adapting to new technologies.
+I'm currently a **Common Core student at 42 Porto**, focused on building strong foundations in **C programming, algorithms, data structures, system programming, and Linux environments** through a project-based learning methodology.
 
-- 🔭 **Current Focus:** Building scalable full-stack applications with modern frameworks
-- 🌱 **Learning:** Advanced React patterns, Cloud Architecture, and Mobile Development
-- 💡 **Interests:** Software Development, Mobile Apps, UI/UX Design, and System Architecture
-- 🌍 **Location:** Lisbon, Portugal
-- 💬 **Languages:** Portuguese (Native), English (Fluent), French (Intermediate), Spanish (Solid Understanding)
+I successfully completed the **42 Piscine**, an intensive selection program centered on **C, memory management, Unix systems, and peer-to-peer evaluation**, and I am now fully dedicated to growing as a software engineer.
+
+- 🔭 **Current Focus:** C, Algorithms, Data Structures, Linux, System Programming  
+- 🧠 **Learning:** Software Engineering Principles, Performance Optimization, Clean Code  
+- 💡 **Interests:** Backend Development, System Architecture, Low-Level Programming  
+- 🌍 **Location:** Portugal  
+- 💬 **Languages:** Portuguese (Native), English (Fluent), French (Intermediate)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Core (42 Focus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Full Stack Background
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=323330)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🎯 Current Goals
 
-- 🔨 Building portfolio projects with **React** and **Next.js**
-- 📱 Developing cross-platform mobile applications with **React Native**
-- 🌐 Contributing to open-source projects
-- 📚 Expanding knowledge in **Cloud Technologies** and **DevOps**
-- 🤝 Collaborating with other developers on innovative projects
+- 🧩 Mastering algorithms and system-level programming at 42  
+- 🛠 Strengthening software engineering fundamentals  
+- 🌐 Contributing to impactful and open-source projects  
+- 🚀 Growing as a disciplined and solution-oriented developer  
+- 🤝 Collaborating in challenging technical environments  
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+I'm always open to learning opportunities, collaborations, and meaningful projects.
 
 - 📧 **Email:** [guilhermesfranca@outlook.com](mailto:guilhermesfranca@outlook.com)
 - 💼 **LinkedIn:** [Guilherme França](https://www.linkedin.com/in/guilhermesfranca)
-- 📸 **Instagram:** [@guilhermes.franca](https://instagram.com/guilhermes.franca)
 
 ---
 
